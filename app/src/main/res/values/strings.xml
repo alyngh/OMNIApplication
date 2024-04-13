@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">OMNI Application</string>
+    <string name="strNewAccount">New Account</string>
+    <string name="strEmail">E-mail</string>
+    <string name="strPassword">Password</string>
+    <string name="strEnterEmail">Enter Email</string>
+    <string name="strEnterPassword">Enter Password</string>
+    <string name="str8Char">must contain 8 characters</string>
+    <string name="strConfirmPassword">Confirm Password</string>
+    <string name="strLogin">Login</string>
+    <string name="strCapcha">Protected by reCAPTCHA and subject to the OMNI Privacy Policy and Terms of Service.</string>
+    <string name="strNewAccountBtn">Create New Account</string>
+    <string name="strVerification">Verification</string>
+    <string name="strOTP">Code has been send to your registered email.</string>
+    <string name="strOTP2">Enter the code to verify your account.</string>
+    <string name="strTextResend">If you didn’t receive a code,</string>
+    <string name="strResendOTP">Resend</string>
+    <string name="strVerify">Verify Account</string>
+    <string name="strVerifyNewPassword">Verify New Password</string>
+    <string name="strOr">Or</string>
+    <string name="strNewAccount1">Don\'t have an account?</string>
+    <string name="strSignUp">Sign Up</string>
+</resources>
