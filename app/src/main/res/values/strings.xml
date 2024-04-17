@@ -20,4 +20,20 @@
     <string name="strOr">Or</string>
     <string name="strNewAccount1">Don\'t have an account?</string>
     <string name="strSignUp">Sign Up</string>
+    <string name="strWelcomeBack">Welcome Back</string>
+    <string name="strForgotPW">Forgot Password\n</string>
+    <string name="strForgotPassword">Forgot Password\n</string>
+    <string name="strNoWorries">No worries! Enter your email address below and we will send you a code to reset password.</string>
+    <string name="strBacktoLogin">Back to\n</string>
+    <string name="strLoginText">Login</string>
+    <string name="strSendOTP">Send OTP\n</string>
+    <string name="strNewPassword">New Password</string>
+    <string name="strEnterandConfirm">Please enter and confirm your new password.\nYou will need to login after you reset.</string>
+    <string name="strEnterNewPassword">Enter New Password</string>
+    <string name="str8digits">At least 8 digits</string>
+    <string name="strCFPassword">Confirm Password</string>
+    <string name="strResetPw">Reset Password</string>
+    <string name="strPasswordChange">Password Changed!\n</string>
+    <string name="strPWchange">Your password has been changed successfully.</string>
+    <string name="strPWchangeBtn">Back to Login</string>
 </resources>
