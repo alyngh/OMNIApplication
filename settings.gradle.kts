@@ -13,5 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "OMNI Application"
+rootProject.name = "FoodApplication"
 include(":app")
+ 
